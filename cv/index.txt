@@ -1,0 +1,181 @@
+1:"$Sreact.fragment"
+3:I[7558,["642","static/chunks/642-a4a3785344b151a1.js","619","static/chunks/619-9168df9c2a29b74b.js","323","static/chunks/323-cc2b5862167d22e9.js","177","static/chunks/app/layout-2a64f443fdd795a7.js"],"ThemeProvider"]
+4:I[611,["642","static/chunks/642-a4a3785344b151a1.js","619","static/chunks/619-9168df9c2a29b74b.js","323","static/chunks/323-cc2b5862167d22e9.js","177","static/chunks/app/layout-2a64f443fdd795a7.js"],"LocaleProvider"]
+5:I[552,["642","static/chunks/642-a4a3785344b151a1.js","619","static/chunks/619-9168df9c2a29b74b.js","323","static/chunks/323-cc2b5862167d22e9.js","177","static/chunks/app/layout-2a64f443fdd795a7.js"],"default"]
+b:I[7150,[],""]
+:HL["/_next/static/css/79d900b435b87ddc.css","style"]
+2:T5d8,
+    try {
+      const cfg = {"enabled":true,"locales":["en","zh"],"defaultLocale":"en","mode":"fixed","fixedLocale":"en","persist":true,"switcher":true,"labels":{"en":"English","zh":"中文"}};
+      const storageKey = 'locale-storage';
+      const normalize = (value) => typeof value === 'string' ? value.trim().replace('_', '-').toLowerCase() : '';
+      const matchLocale = (candidate) => {
+        const normalized = normalize(candidate);
+        if (!normalized) return null;
+        if (cfg.locales.includes(normalized)) return normalized;
+        const language = normalized.split('-')[0];
+        if (cfg.locales.includes(language)) return language;
+        return null;
+      };
+
+      let resolved = null;
+
+      if (!cfg.enabled) {
+        resolved = cfg.defaultLocale;
+      } else if (cfg.persist) {
+        resolved = matchLocale(localStorage.getItem(storageKey));
+      }
+
+      if (!resolved) {
+        if (cfg.mode === 'fixed') {
+          resolved = cfg.fixedLocale;
+        } else {
+          resolved = matchLocale(navigator.language);
+        }
+      }
+
+      if (!resolved) {
+        resolved = cfg.defaultLocale;
+      }
+
+      const root = document.documentElement;
+      root.lang = resolved;
+      root.setAttribute('data-locale', resolved);
+
+      if (cfg.persist) {
+        localStorage.setItem(storageKey, resolved);
+      }
+    } catch (e) {
+      const root = document.documentElement;
+      root.lang = 'en';
+      root.setAttribute('data-locale', 'en');
+    }
+  0:{"P":null,"b":"FaiR2oM-GAM0vS8EEOuDS","p":"","c":["","cv",""],"i":false,"f":[[["",{"children":[["slug","cv","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/79d900b435b87ddc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":[["$","a",null,{"href":"#main-content","className":"skip-link","children":"Skip to content / 跳到正文"}],["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":true,"locales":["en","zh"],"defaultLocale":"en","mode":"fixed","fixedLocale":"en","persist":true,"switcher":true,"labels":{"en":"English","zh":"中文"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Research","type":"page","target":"research","href":"/research/"},{"title":"Publications","type":"page","target":"publications","href":"/publications/"},{"title":"CV","type":"page","target":"cv","href":"/cv/"}],"siteTitle":"Nan Chen","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:1:props:children:props:config","itemsByLocale":{"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Research","type":"page","target":"research","href":"/research/"},{"title":"Publications","type":"page","target":"publications","href":"/publications/"},{"title":"CV","type":"page","target":"cv","href":"/cv/"}],"zh":[{"title":"简介","type":"page","target":"about","href":"/"},{"title":"研究","type":"page","target":"research","href":"/research/"},{"title":"论文","type":"page","target":"publications","href":"/publications/"},{"title":"履历","type":"page","target":"cv","href":"/cv/"}]},"siteTitleByLocale":{"en":"Nan Chen","zh":"陈楠"}}],"$L6","$L7"]}]}]]}]]}]]}],{"children":[["slug","cv","d"],"$L8",{"children":["__PAGE__","$L9",{},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[9766,[],""]
+d:I[8924,[],""]
+e:I[7923,["642","static/chunks/642-a4a3785344b151a1.js","619","static/chunks/619-9168df9c2a29b74b.js","323","static/chunks/323-cc2b5862167d22e9.js","177","static/chunks/app/layout-2a64f443fdd795a7.js"],"default"]
+10:I[4431,[],"OutletBoundary"]
+12:I[5278,[],"AsyncMetadataOutlet"]
+14:I[4431,[],"ViewportBoundary"]
+16:I[4431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+6:["$","main",null,{"id":"main-content","className":"min-h-screen pt-20","children":["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]
+7:["$","$Le",null,{"lastUpdated":"October 9, 2026","lastUpdatedByLocale":{"en":"October 9, 2026","zh":"2026年10月9日"},"defaultLocale":"en"}]
+8:["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+a:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],null],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+19:I[5421,["642","static/chunks/642-a4a3785344b151a1.js","415","static/chunks/415-e17e6d9b07186e47.js","331","static/chunks/331-48f2b9331c56ce22.js","182","static/chunks/app/%5Bslug%5D/page-1b30c4010e605920.js"],"default"]
+1a:Ta53,**Nan Chen**\
+School of Public Affairs, Zhejiang University · Hangzhou, China\
+[nanchen@zju.edu.cn](mailto:nanchen@zju.edu.cn) · [nathanchen011126@gmail.com](mailto:nathanchen011126@gmail.com)
+
+## Education
+
+### Zhejiang University
+
+**PhD student, School of Public Affairs, Interdisciplinary Training Program**\
+September 2024 to present · Hangzhou, China\
+Supervisor: Prof. Wenze Yue
+
+### Central China Normal University
+
+**B.A., School of Public Administration**\
+September 2020 to June 2024 · Wuhan, China\
+Supervisor: Prof. Xinhai Lu
+
+## Publications
+
+1. Yue, W., **Chen, N.**, & Zhang, G. (2026). Using AI analysis to decode SDG integration in China's spatial planning. *npj Urban Sustainability*. [DOI](https://doi.org/10.1038/s42949-026-00421-1)
+2. Yue, W., **Chen, N.**, Liu, B., & Jiang, Q. (2025). Optimizing land use plan management to safeguard high-quality development in advantaged regions. *Shanghai Land & Resources*, 46(1). In Chinese. [DOI](https://doi.org/10.3969/j.issn.2095-1329.2025.01.003)
+
+## Working papers
+
+- **Temporal compound extreme climate risk and grain adaptation behavior.** With Guangyu Zhang, Yuanyuan Zeng, and Wenze Yue. 2026. In progress.
+- **Cultivation evidence redraws China's agricultural land-sharing geography.** With Guangyu Zhang, Yuyu Zhou, Bowen Jiang, and Wenze Yue. 2026. Submitted to *Nature Sustainability*.
+
+## Conferences & seminars
+
+- **2026.** Summer School on “Frontiers of Geography”, Peking University Graduate Education Innovation Program. Peking University.
+- **2025.** The 9th International Academic Conference on Land Policy SSCI Journals: Land System Reform and Optimization of Urban-Rural Development Patterns. Zhejiang University.
+- **2024.** The 21st National Joint Meeting of Deans and Department Heads of Land Resource Management in Chinese Universities and the 2024 China Land Science Forum. Zhejiang Gongshang University.
+
+## Research assistantship
+
+**“Hundred Communities in Ten Years” community survey**\
+Key Research Base of Humanities and Social Sciences in Hubei Province.\
+September 2020 to September 2023.
+
+## Honors & scholarships
+
+- **2026.** Zhejiang University School of Public Affairs Shuhui Baiyulan Scholarship.
+- **2024.** Outstanding Undergraduate Thesis of Hubei Province.
+- **2024.** Outstanding Graduate of Central China Normal University.
+- **2022.** National Scholarship for Undergraduate Students.
+
+## Research interests
+
+Climate change; land use planning and management; spatial governance; urban sustainability.
+
+## Programming & software
+
+Python, R, Stata, ArcGIS Pro, and Codex.
+1b:T90a,**陈楠 · Nan Chen**\
+浙江大学公共管理学院 · 中国杭州\
+[nanchen@zju.edu.cn](mailto:nanchen@zju.edu.cn) · [nathanchen011126@gmail.com](mailto:nathanchen011126@gmail.com)
+
+## 教育背景
+
+### 浙江大学
+
+**公共管理学院博士研究生，交叉培养项目**\
+2024年9月至今 · 杭州\
+导师：岳文泽教授
+
+### 华中师范大学
+
+**学士，公共管理学院**\
+2020年9月至2024年6月 · 武汉\
+导师：Xinhai Lu 教授
+
+## 已发表论文
+
+1. Yue, W., **Chen, N.**, & Zhang, G. (2026). Using AI analysis to decode SDG integration in China's spatial planning. *npj Urban Sustainability*. [DOI](https://doi.org/10.1038/s42949-026-00421-1)
+2. 岳文泽、**陈楠**、刘斌、姜钦杰（2025）。优化土地利用计划管理，保障优势地区高质量发展。《上海国土资源》，46(1)。[DOI](https://doi.org/10.3969/j.issn.2095-1329.2025.01.003)
+
+## 在研论文
+
+- **Temporal compound extreme climate risk and grain adaptation behavior.** 合作作者：Guangyu Zhang、Yuanyuan Zeng、Wenze Yue。2026年，进行中。
+- **Cultivation evidence redraws China's agricultural land-sharing geography.** 合作作者：Guangyu Zhang、Yuyu Zhou、Bowen Jiang、Wenze Yue。2026年，已投稿至 *Nature Sustainability*。
+
+## 学术会议与研修
+
+- **2026年。** 北京大学研究生教育创新计划“地理学前沿”暑期学校，北京大学。
+- **2025年。** 第九届土地政策 SSCI 期刊国际学术会议：土地制度改革与城乡发展格局优化，浙江大学。
+- **2024年。** 全国高校土地资源管理院长（系主任）第二十一次联席会议暨2024年中国土地科学论坛，浙江工商大学。
+
+## 研究助理经历
+
+**“十年百村”社区调查**\
+湖北省人文社会科学重点研究基地。\
+2020年9月至2023年9月。
+
+## 荣誉与奖学金
+
+- **2026年。** 浙江大学公共管理学院 Shuhui Baiyulan 奖学金。
+- **2024年。** 湖北省优秀本科毕业论文。
+- **2024年。** 华中师范大学优秀毕业生。
+- **2022年。** 本科生国家奖学金。
+
+## 研究兴趣
+
+气候变化；土地利用规划与管理；空间治理；城市可持续发展。
+
+## 编程与软件
+
+Python、R、Stata、ArcGIS Pro 和 Codex。
+f:["$","$L19",null,{"dataByLocale":{"en":{"type":"text","config":{"type":"text","title":"Curriculum vitae","description":"Academic background, research experience and honors.","source":"cv.md"},"content":"$1a"},"zh":{"type":"text","config":{"type":"text","title":"个人履历","description":"教育背景、研究经历与荣誉。","source":"cv.md"},"content":"$1b"}},"defaultLocale":"en"}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1c:I[622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"Curriculum vitae | Nan Chen"}],["$","meta","1",{"name":"description","content":"Academic background, research experience and honors."}],["$","meta","2",{"name":"author","content":"Nan Chen"}],["$","meta","3",{"name":"keywords","content":"Nan Chen,PhD,Research,Zhejiang University"}],["$","meta","4",{"name":"creator","content":"Nan Chen"}],["$","meta","5",{"name":"publisher","content":"Nan Chen"}],["$","link","6",{"rel":"canonical","href":"https://nathanchen1126.github.io/cv/"}],["$","meta","7",{"property":"og:title","content":"Nan Chen"}],["$","meta","8",{"property":"og:description","content":"Nan Chen, PhD student at Zhejiang University. Research on climate change, land use planning, spatial governance and urban sustainability."}],["$","meta","9",{"property":"og:url","content":"https://nathanchen1126.github.io/"}],["$","meta","10",{"property":"og:site_name","content":"Nan Chen's Academic Website"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Nan Chen"}],["$","meta","15",{"name":"twitter:description","content":"Nan Chen, PhD student at Zhejiang University. Research on climate change, land use planning, spatial governance and urban sustainability."}],["$","link","16",{"rel":"icon","href":"/favicon.svg"}],["$","$L1c","17",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"

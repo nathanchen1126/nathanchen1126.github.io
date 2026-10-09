@@ -1,0 +1,20 @@
+type = "about"
+title = "About"
+[profile]
+research_interests = ["Climate change", "Land use planning & management", "Spatial governance", "Urban sustainability"]
+[[sections]]
+id = "biography"
+type = "markdown"
+source = "bio.md"
+title = "About"
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Selected publications"
+filter = "selected"
+limit = 2
+[[sections]]
+id = "research_focus"
+type = "markdown"
+source = "focus.md"
+title = "Research focus"

@@ -1,0 +1,53 @@
+[site]
+title = "Nan Chen"
+description = "Nan Chen, PhD student at Zhejiang University. Research on climate change, land use planning, spatial governance and urban sustainability."
+url = "https://nathanchen1126.github.io"
+favicon = "/favicon.svg"
+last_updated = "October 9, 2026"
+[author]
+name = "Nan Chen"
+title = "PhD Student"
+institution = "Zhejiang University"
+avatar = "/profile.jpg"
+[social]
+email = "nanchen@zju.edu.cn"
+location = "Hangzhou, China"
+github = "https://github.com/nathanchen1126"
+[features]
+enable_likes = false
+enable_one_page_mode = false
+[i18n]
+enabled = true
+locales = ["en", "zh"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = true
+switcher = true
+[i18n.labels]
+en = "English"
+zh = "中文"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Research"
+type = "page"
+target = "research"
+href = "/research/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications/"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv/"

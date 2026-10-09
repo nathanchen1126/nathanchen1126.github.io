@@ -1,0 +1,4 @@
+type = "text"
+title = "Research"
+description = "Current working papers and research interests."
+source = "research.md"

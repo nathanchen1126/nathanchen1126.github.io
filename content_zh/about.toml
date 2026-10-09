@@ -1,0 +1,20 @@
+type = "about"
+title = "个人简介"
+[profile]
+research_interests = ["气候变化", "土地利用规划与管理", "空间治理", "城市可持续发展"]
+[[sections]]
+id = "biography"
+type = "markdown"
+source = "bio.md"
+title = "个人简介"
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "代表论文"
+filter = "selected"
+limit = 2
+[[sections]]
+id = "research_focus"
+type = "markdown"
+source = "focus.md"
+title = "研究方向"

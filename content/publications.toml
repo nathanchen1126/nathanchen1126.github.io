@@ -1,0 +1,4 @@
+type = "publication"
+title = "Publications"
+description = "Peer-reviewed publications. Working papers are listed separately under Research."
+source = "publications.bib"

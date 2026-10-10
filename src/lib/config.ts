@@ -18,6 +18,7 @@ export interface SiteConfig {
   };
   social: {
     email?: string;
+    wechat_qr?: string;
     location?: string;
     location_url?: string;
     location_details?: string[];

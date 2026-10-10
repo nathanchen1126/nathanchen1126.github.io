@@ -2,4 +2,4 @@
 - **Land systems & governance.** Agricultural land sharing and the management of land use plans.
 - **AI & urban sustainability.** Understanding how sustainable development goals are integrated into spatial planning.
 
-[Explore current research](/research/) · [View my CV](/cv/)
+[Explore current work](/current-work/) · [View my CV](/cv/)

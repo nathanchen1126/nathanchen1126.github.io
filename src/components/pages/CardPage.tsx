@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 import ReactMarkdown from 'react-markdown';
+import CurrentWork from '@/components/pages/CurrentWork';
 import { CardPageConfig } from '@/types/page';
 
 const markdownComponents = {
@@ -30,6 +31,9 @@ const markdownComponents = {
 };
 
 export default function CardPage({ config, embedded = false }: { config: CardPageConfig; embedded?: boolean }) {
+    if (config.layout === 'research') {
+        return <CurrentWork config={config} embedded={embedded} />;
+    }
     return (
         <motion.div
             initial={{ opacity: 0, y: 20 }}

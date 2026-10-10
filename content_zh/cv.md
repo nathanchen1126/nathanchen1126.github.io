@@ -1,5 +1,5 @@
 **陈楠 · Nan Chen**\
-浙江大学公共管理学院 · 中国杭州\
+[浙江大学公共管理学院](http://www.spa.zju.edu.cn/spachinese/main.htm) · 中国杭州\
 [nanchen@zju.edu.cn](mailto:nanchen@zju.edu.cn) · [nathanchen011126@gmail.com](mailto:nathanchen011126@gmail.com)
 
 ## 教育背景
@@ -8,7 +8,7 @@
 
 **公共管理学院博士研究生，交叉培养项目**\
 2024年9月至今 · 杭州\
-导师：岳文泽教授
+导师：[岳文泽教授](https://person.zju.edu.cn/wzyue)
 
 ### 华中师范大学
 
@@ -26,6 +26,20 @@
 - **Temporal compound extreme climate risk and grain adaptation behavior.** 合作作者：Guangyu Zhang、Yuanyuan Zeng、Wenze Yue。2026年，进行中。
 - **Cultivation evidence redraws China's agricultural land-sharing geography.** 合作作者：Guangyu Zhang、Yuyu Zhou、Bowen Jiang、Wenze Yue。2026年，已投稿至 *Nature Sustainability*。
 
+## 参与项目
+
+### 中国快速城市化的经济社会生态影响研究
+
+**核心成员**\
+2025.12 至 2029.12\
+国家社会科学基金重大项目
+
+### 城乡融合导向下全域土地综合整治驱动要素流动的内在机制与政策响应
+
+**核心成员**\
+2025.01 至 2028.12\
+国家自然科学基金资助面上项目
+
 ## 学术会议与研修
 
 - **2026年。** 北京大学研究生教育创新计划“地理学前沿”暑期学校，北京大学。
@@ -40,7 +54,7 @@
 
 ## 荣誉与奖学金
 
-- **2026年。** 浙江大学公共管理学院 Shuhui Baiyulan 奖学金。
+- **2026年。** [浙江大学公共管理学院](http://www.spa.zju.edu.cn/spachinese/main.htm) Shuhui Baiyulan 奖学金。
 - **2024年。** 湖北省优秀本科毕业论文。
 - **2024年。** 华中师范大学优秀毕业生。
 - **2022年。** 本科生国家奖学金。

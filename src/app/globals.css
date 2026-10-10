@@ -147,3 +147,42 @@ button { cursor: pointer; }
   .academic-prose { font-size: 11pt; line-height: 1.5; }
   a { color: #111 !important; }
 }
+
+.profile-heading a:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.wechat-contact { display: grid; gap: 8px; margin-top: 14px; }
+.profile-contact .wechat-image-link { display: block; width: 152px; background: white; }
+.wechat-image-link img { display: block; width: 100%; height: auto; }
+.profile-contact .wechat-contact p { font-size: 13px; color: var(--neutral-500); }
+.work-page-shell { max-width: 1160px; margin: auto; padding: 56px 28px 84px; }
+.work-page-header { margin-bottom: 48px; }
+.work-page-header h1, .work-page-header h2 { font-family: var(--font-serif); font-size: 36px; font-weight: 500; line-height: 1.25; color: var(--primary); }
+.work-list { display: grid; gap: 64px; }
+.work-row { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); gap: 44px; align-items: start; }
+.work-row + .work-row { border-top: 1px solid var(--neutral-200); padding-top: 56px; }
+.work-text .eyebrow { margin-bottom: 12px; color: var(--accent); }
+.work-text h2 { font-family: var(--font-serif); font-size: 25px; font-weight: 500; line-height: 1.35; color: var(--primary); margin-bottom: 22px; }
+.work-description { font-size: 17px; line-height: 1.85; color: var(--neutral-600); }
+.work-figure { min-width: 0; margin-top: 8px; }
+.work-image-link { display: block; cursor: zoom-in; background: white; }
+.work-image-link img { display: block; width: 100%; height: auto; }
+.work-figure figcaption { font-size: 13px; line-height: 1.6; color: var(--neutral-500); margin-top: 14px; }
+.work-full-size { display: inline-block; color: var(--accent); font-size: 13px; margin-top: 8px; border-bottom: 1px solid var(--neutral-300); }
+@media (min-width: 768px) and (max-width: 959px) {
+  .desktop-navigation { display: none; }
+  .menu-toggle { display: inline-flex; }
+  .mobile-navigation { display: grid; padding: 4px 28px 17px; gap: 3px; border-top: 1px solid var(--neutral-200); }
+  .mobile-nav-link { padding: 10px 5px; }
+}
+@media (max-width: 767px) {
+  .wechat-contact { width: 100%; margin-top: 4px; }
+  .profile-contact .wechat-image-link { width: 144px; }
+  .work-page-shell { padding: 36px 22px 56px; }
+  .work-page-header { margin-bottom: 36px; }
+  .work-page-header h1, .work-page-header h2 { font-size: 30px; }
+  .work-list { gap: 40px; }
+  .work-row { grid-template-columns: minmax(0, 1fr); gap: 24px; }
+  .work-row + .work-row { padding-top: 36px; }
+  .work-text h2 { font-size: 24px; margin-bottom: 18px; }
+  .work-description { font-size: 16px; line-height: 1.8; }
+  .work-figure { margin-top: 0; }
+}

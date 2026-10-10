@@ -3,7 +3,7 @@ title = "Nan Chen"
 description = "Nan Chen, PhD student at Zhejiang University. Research on climate change, land use planning, spatial governance and urban sustainability."
 url = "https://nathanchen1126.github.io"
 favicon = "/favicon.svg"
-last_updated = "October 9, 2026"
+last_updated = "October 10, 2026"
 [author]
 name = "Nan Chen"
 title = "PhD Student"
@@ -13,6 +13,7 @@ avatar = "/profile.jpg"
 email = "nanchen@zju.edu.cn"
 location = "Hangzhou, China"
 github = "https://github.com/nathanchen1126"
+wechat_qr = "/wechat-qr.jpg"
 [features]
 enable_likes = false
 enable_one_page_mode = false
@@ -33,6 +34,12 @@ title = "About"
 type = "page"
 target = "about"
 href = "/"
+
+[[navigation]]
+title = "Current Work"
+type = "page"
+target = "current-work"
+href = "/current-work/"
 
 [[navigation]]
 title = "Research"

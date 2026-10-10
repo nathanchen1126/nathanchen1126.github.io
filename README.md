@@ -13,6 +13,10 @@
 - publications.bib：已发表论文，作者顺序以公开书目信息为依据。
 - research.md：在研论文，单独标明进行中与已投稿状态。
 - cv.md：完整的公开学术履历。
+- current-work.toml：当前工作的双语介绍、图件和图注。
+- projects.md：参与项目、成员角色和资助信息。
+- public/work/：作者提供的研究图件网页副本。
+- public/wechat-qr.jpg：个人微信公众号二维码。
 - public/profile.jpg：作者指定的照片。
 
 内容依据2026年10月9日作者简历。公开履历提供学术邮箱和个人学术联系邮箱，原始简历文件保留在本机。已发表论文链接：

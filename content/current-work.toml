@@ -1,0 +1,24 @@
+type = "card"
+layout = "research"
+title = "Current Work"
+description = "Current research on temporally compounding climate extremes, crop production and agrivoltaic land sharing."
+
+[[items]]
+title = "Temporally compounding climate extremes and crop production"
+subtitle = "TCE · Climate risk and adaptation"
+content = "My current climate research asks how heatwaves and heavy rainfall in close succession shape risks to global crop production. Using daily climate records, gridded crop data, crop calendars and climate-model scenarios, I examine heat-followed-by-rain and rain-followed-by-heat sequences for maize, rice, soybean and wheat. Spatial econometric models and machine learning help assess associations between event timing, crop-season exposure and production. The next stage will explore locally feasible crop calendars, irrigation and drainage, and crop portfolios to understand where response measures may reduce shortfalls and where residual risk remains."
+image = "/work/tce.webp"
+image_width = 2161
+image_height = 1322
+image_alt = "Historical frequency indices of extreme heat, extreme precipitation and ordered compound events from 1980 to 2024."
+image_caption = "Historical event-frequency indices, 1980 to 2024: CPC and ERA5 comparison."
+
+[[items]]
+title = "Cultivation evidence redraws China’s agrivoltaic land-sharing geography"
+subtitle = "PV · Solar energy and land sharing"
+content = "My agrivoltaics research examines where solar infrastructure and farming are observably combined. I integrate high-resolution imagery, Sentinel-2 vegetation phenology and machine-learning classification to identify cultivation within photovoltaic arrays across China, then compare this activity-based evidence with project records and facility-based inventories. The analysis examines how these evidence choices change spatial patterns, county priorities for verification, modelled generation potential and a vegetation-based grain-equivalent proxy. Its central finding is that similar national totals can conceal markedly different regional geographies of land sharing."
+image = "/work/agrivoltaics.webp"
+image_width = 2400
+image_height = 1836
+image_alt = "County maps, site distributions and evidence-layer comparisons of modelled generation potential and the grain-equivalent proxy."
+image_caption = "Evidence-layer contrasts in modelled generation potential and a vegetation-based grain-equivalent proxy."

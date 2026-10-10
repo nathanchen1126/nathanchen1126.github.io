@@ -1,14 +1,14 @@
 **Nan Chen**\
-School of Public Affairs, Zhejiang University · Hangzhou, China\
+[School of Public Affairs](http://www.spa.zju.edu.cn/spaenglish/), Zhejiang University · Hangzhou, China\
 [nanchen@zju.edu.cn](mailto:nanchen@zju.edu.cn) · [nathanchen011126@gmail.com](mailto:nathanchen011126@gmail.com)
 
 ## Education
 
 ### Zhejiang University
 
-**PhD student, School of Public Affairs, Interdisciplinary Training Program**\
+**PhD student, [School of Public Affairs](http://www.spa.zju.edu.cn/spaenglish/), Interdisciplinary Training Program**\
 September 2024 to present · Hangzhou, China\
-Supervisor: Prof. Wenze Yue
+Supervisor: [Prof. Wenze Yue](https://scholar.google.com/citations?user=shsFVMgAAAAJ&hl=zh-CN&oi=ao)
 
 ### Central China Normal University
 
@@ -26,6 +26,20 @@ Supervisor: Prof. Xinhai Lu
 - **Temporal compound extreme climate risk and grain adaptation behavior.** With Guangyu Zhang, Yuanyuan Zeng, and Wenze Yue. 2026. In progress.
 - **Cultivation evidence redraws China's agricultural land-sharing geography.** With Guangyu Zhang, Yuyu Zhou, Bowen Jiang, and Wenze Yue. 2026. Submitted to *Nature Sustainability*.
 
+## Project participation
+
+### Economic, social and ecological impacts of rapid urbanization in China
+
+**Core team member**\
+December 2025 to December 2029\
+Major Project, National Social Science Fund of China
+
+### Mechanisms of factor flows driven by territory-wide land consolidation for urban-rural integration and corresponding policy responses
+
+**Core team member**\
+January 2025 to December 2028\
+General Program, National Natural Science Foundation of China (NSFC)
+
 ## Conferences & seminars
 
 - **2026.** Summer School on “Frontiers of Geography”, Peking University Graduate Education Innovation Program. Peking University.
@@ -40,7 +54,7 @@ September 2020 to September 2023.
 
 ## Honors & scholarships
 
-- **2026.** Zhejiang University School of Public Affairs Shuhui Baiyulan Scholarship.
+- **2026.** Zhejiang University [School of Public Affairs](http://www.spa.zju.edu.cn/spaenglish/) Shuhui Baiyulan Scholarship.
 - **2024.** Outstanding Undergraduate Thesis of Hubei Province.
 - **2024.** Outstanding Graduate of Central China Normal University.
 - **2022.** National Scholarship for Undergraduate Students.

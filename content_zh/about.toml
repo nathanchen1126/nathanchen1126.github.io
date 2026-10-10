@@ -8,6 +8,11 @@ type = "markdown"
 source = "bio.md"
 title = "个人简介"
 [[sections]]
+id = "projects"
+type = "markdown"
+source = "projects.md"
+title = "参与项目"
+[[sections]]
 id = "featured_publications"
 type = "publications"
 title = "代表论文"

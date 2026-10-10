@@ -14,7 +14,7 @@ Supervisor: [Prof. Wenze Yue](https://scholar.google.com/citations?user=shsFVMgA
 
 **B.A., School of Public Administration**\
 September 2020 to June 2024 · Wuhan, China\
-Supervisor: Prof. Xinhai Lu
+Supervisor: [Prof. Xinhai Lu](https://cpa.hust.edu.cn/info/1251/7926.htm)
 
 ## Publications
 

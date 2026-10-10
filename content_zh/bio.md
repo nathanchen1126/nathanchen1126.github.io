@@ -1,4 +1,4 @@
-我是[浙江大学公共管理学院](http://www.spa.zju.edu.cn/spachinese/main.htm)博士研究生，于2024年9月进入交叉培养项目，导师为[岳文泽教授](https://person.zju.edu.cn/wzyue)。
+我是[浙江大学公共管理学院](http://www.spa.zju.edu.cn/spachinese/main.htm)博士研究生，于2024年9月进入交叉培养项目，导师为[岳文泽教授](https://person.zju.edu.cn/wzyue)。交叉培养合作导师为浙江大学的[张蔚文教授](https://person.zju.edu.cn/0092316)、[张永平研究员](https://person.zju.edu.cn/yongpingzhang)和[郑能干教授](https://person.zju.edu.cn/nengganzheng)。
 
 最近，我开始研究**时间连续复合气候极端事件对作物产出与粮食系统韧性的影响**。我结合逐日气候资料、格网作物数据和气候模式情景，利用空间计量与机器学习方法，重点关注高温与强降水的先后顺序和间隔、不同作物与区域的脆弱性差异，以及可能的适应路径。
 

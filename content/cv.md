@@ -8,7 +8,8 @@
 
 **PhD student, [School of Public Affairs](http://www.spa.zju.edu.cn/spaenglish/), Interdisciplinary Training Program**\
 September 2024 to present · Hangzhou, China\
-Supervisor: [Prof. Wenze Yue](https://scholar.google.com/citations?user=shsFVMgAAAAJ&hl=zh-CN&oi=ao)
+Supervisor: [Prof. Wenze Yue](https://scholar.google.com/citations?user=shsFVMgAAAAJ&hl=zh-CN&oi=ao)\
+Co-supervisors: [Prof. Weiwen Zhang](https://person.zju.edu.cn/en/0092316), [Dr. Yongping Zhang](https://person.zju.edu.cn/en/yongpingzhang), and [Prof. Nenggan Zheng](https://person.zju.edu.cn/en/nengganzheng) (Zhejiang University)
 
 ### Central China Normal University
 

@@ -8,7 +8,8 @@
 
 **公共管理学院博士研究生，交叉培养项目**\
 2024年9月至今 · 杭州\
-导师：[岳文泽教授](https://person.zju.edu.cn/wzyue)
+导师：[岳文泽教授](https://person.zju.edu.cn/wzyue)\
+合作导师：[张蔚文教授](https://person.zju.edu.cn/0092316)、[张永平研究员](https://person.zju.edu.cn/yongpingzhang)和[郑能干教授](https://person.zju.edu.cn/nengganzheng)（浙江大学）
 
 ### 华中师范大学
 
